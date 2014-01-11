@@ -1,0 +1,24 @@
+First I have to find all the abundant numbers - DONE
+
+Then I have to check if each number up to 28123 can be written as the sum of two abundant numbers
+
+
+
+If not, add to answer
+
+z[0] through z[abundant] contain the abundant numbers
+
+
+
+
+
+How to break down a number x
+
+
+for(int k = x/2; k > 1; k--)
+if( x % k == 0 )
+	y[0] = 2;
+	y[1] = x/2;
+
+
+

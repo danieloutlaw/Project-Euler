@@ -1,0 +1,23 @@
+Royal Flush
+Straight Flush
+Four of a Kind
+Full House
+Flush
+Straight
+Three of a Kind
+Two Pairs
+One Pair
+High Card
+
+
+How do we tell if there is a straight?
+
+23456
+34567
+45678
+56789
+6789T
+789TJ
+89TJQ
+9TJQK
+TJQKA

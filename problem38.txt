@@ -1,0 +1,9 @@
+palindromic for decimal and binary
+
+must be odd (so binary will end in 1)
+
+9 18 27 36 45
+
+192 384 576
+
+9876

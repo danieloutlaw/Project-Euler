@@ -1,0 +1,7 @@
+t(n) = [n(n+1)]/2 <-- formula for traingle numbers
+
+converting each letter into a number corresponding to the alphabetical postion and adding the numbers we get the score.
+
+1. Make an array of all the words
+2. Make an array of all the traingle numbers that could possibly be a word (say 25*26=650 max)
+3. Give each word a score and see if it is a triangle number
